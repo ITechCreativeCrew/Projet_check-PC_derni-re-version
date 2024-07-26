@@ -3,9 +3,8 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <unistd.h>
-
 #include "file.h"
-//#include "file.c" 
+
 int main(int argc ,char * argv[] )
 {
         Student *std;
